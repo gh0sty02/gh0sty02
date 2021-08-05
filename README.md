@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranay Yadav
-- 👀 I’m Amazed by the fact that there is so much to be learnt and Web Devlopement facinates me the most !!!
+- 👀 I’m Amazed by the fact that there is so much to be learnt and Web Development facinates me the most !!!
 - 🌱 I’m currently learning MERN Stack !!
 - 📫 You can react me at my email pranayyadav08@gmail.com
 
