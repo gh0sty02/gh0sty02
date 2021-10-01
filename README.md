@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Learn Java and Android Development.
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- ⚡ Fun fact: I love playing FPS Games :raised_hands:
 
 <br>
 
