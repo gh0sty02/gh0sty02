@@ -23,7 +23,7 @@
 ### I am a Final Year Student with CS Major. :grin:
 - 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2021 Goals: Learn Java and Android Development.
+- 🥅 2021 Goals: Learn Java and DevOps.
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love playing FPS Games :raised_hands:
 
