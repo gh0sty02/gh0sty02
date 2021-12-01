@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Natours - A Tour Booking App](https://natours-remaster.herokuapp.com/)
 
-- 🌱 I’m currently learning **Docker and kubernetes **
+- 🌱 I’m currently learning **Docker and kubernetes**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/gh0sty02)
 
