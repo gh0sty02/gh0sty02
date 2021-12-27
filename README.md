@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranay</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Natours - A Tour Booking App](https://natours-remaster.herokuapp.com/)
+- 🔭 I’m currently working on [Stonkify](https://natours-remaster.herokuapp.com/)
 
 - 🌱 I’m currently learning **Docker and kubernetes**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/gh0sty02)
+- 👨‍💻 All of my projects are available at [here](https://github.com/gh0sty02/Stonkify)
 
 - 💬 Ask me about **React, Node.js and MongoDB**
 
