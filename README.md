@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Stonkify](https://github.com/gh0sty02/stonkify)
 
-- 🌱 I’m currently learning **Docker and kubernetes**
+- 🌱 I’m currently learning **Prisma and NestJS**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/gh0sty02/Stonkify)
 
