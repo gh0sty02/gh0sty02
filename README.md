@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pranay</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Stonkify](https://github.com/gh0sty02/stonkify)
+- 🔭 I’m currently working as FrontEnd Developer at [Netskope](https://www.netskope.com/).
 
-- 🌱 I’m currently learning **Prisma and NestJS**
+- 🌱 I’m currently learning **D3js**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/gh0sty02/Stonkify)
 
-- 💬 Ask me about **React, Node.js and MongoDB**
+- 💬 Ask me about **React, Node.js and D3js**
 
 - 📫 How to reach me **pranayyadav08@gmail.com**
 
