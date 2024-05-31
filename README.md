@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as FrontEnd Developer at [Netskope](https://www.netskope.com/).
 
-- 🌱 I’m currently learning **D3js**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/gh0sty02/Stonkify)
 
