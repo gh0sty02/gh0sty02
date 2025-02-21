@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranay</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working as FrontEnd Developer at [Netskope](https://www.netskope.com/).
+- 🔭 I’m currently working as Senior Software Engineer at [Dentu](https://www.dentsu.com/).
 
 - 🌱 I’m currently learning **Go**
 
